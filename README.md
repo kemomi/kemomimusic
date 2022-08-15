@@ -1,3 +1,5 @@
+![IMG_6121](https://user-images.githubusercontent.com/76780905/184580123-a38e826c-a15c-4b08-b57a-cbe0ebc4cc72.GIF)
+![city](https://user-images.githubusercontent.com/76780905/184580140-78d0f2dc-2808-476c-932b-16774044c663.gif)
 <br />
 <p align="center">
   <a href="https://yes-music-zeta.vercel.app/" target="blank">
