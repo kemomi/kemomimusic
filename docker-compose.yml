@@ -1,0 +1,9 @@
+services:
+  YesPlayMusic:
+    build:
+      context: .
+    image: kemomimusic
+    container_name: kemomiMusic
+    ports:
+      - 80:80
+    restart: always
